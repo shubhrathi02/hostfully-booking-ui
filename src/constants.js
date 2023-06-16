@@ -1,0 +1,1 @@
+export const ENDPOINT_BOOKINGS = 'http://localhost:8080/bookings'
